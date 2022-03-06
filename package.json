@@ -1,0 +1,24 @@
+{
+  "name": "HelloElectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleTealeaf/HelloElectron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleTealeaf/HelloElectron/issues"
+  },
+  "homepage": "https://github.com/LittleTealeaf/HelloElectron#readme",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
