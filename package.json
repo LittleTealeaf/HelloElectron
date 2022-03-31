@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/LittleTealeaf/HelloElectron#readme",
   "devDependencies": {
-    "electron": "^18.0.0"
+    "electron": "^18.0.1"
   }
 }
